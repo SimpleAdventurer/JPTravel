@@ -68,7 +68,7 @@
 ## Q2. 続(2015): ED 배경, 4화(및 다른 화) 사이제리야, 13화 葛西臨海水族園의 수조·구역, anitabi 무명 타임스탬프
 
 ### Takeaway
-続 ED 「エブリデイワールド」의 실재 배경을 특정한 출처는 없다(주요 DB에 ED 포인트 0건). 4화 「サイゼはないわー」의 사이제리야는 순례 블로그가 「サイゼリヤ千葉中央店」으로 대조했다. 이 점포는 2022년 10월 무렵 폐점했다(FY 팬 게시물·식당 DB). 13화 수족원은 입구 에스컬레이터, 만지기 체험, 펭귄 구역, 큰 수조, 해파리 구역, 「マグロとせいくらべ」 패널 순서다. 큰 수조의 이름은 어떤 출처도 적지 않았다. anitabi의 무명 포인트는 캡처 이미지로 모두 판독했다. 대부분 교내(비공개)이고, 13화 09:10·09:11은 葛西臨海公園 안내판과 역 주변이다.
+続 ED 「エブリデイワールド」의 실재 배경을 특정한 출처는 없다(주요 DB에 ED 포인트 0건). 4화 「サイゼはないわー」의 사이제리야는 순례 블로그가 「サイゼリヤ千葉中央店」으로 대조했다. 이 점포는 2022년 10월 무렵 폐점했다(팬 X 게시물 2022-10-24, 食べログ 폐점 표시). 13화 수족원은 입구 에스컬레이터, 만지기 체험, 펭귄 구역, 큰 수조, 해파리 구역, 「マグロとせいくらべ」 패널 순서다. 큰 수조의 이름은 어떤 출처도 적지 않았다. anitabi의 무명 포인트는 캡처 이미지로 모두 판독했다. 대부분 교내(비공개)로 보이고, 13화 09:10·09:11은 葛西臨海公園 안내판과 역 주변이다.
 
 ### Cited Findings
 
@@ -105,8 +105,8 @@
 
 | 작품·화·시각 | anitabi 표기 | 캡처 내용(판독) | 결론 |
 |---|---|---|---|
-| 続 5화 21:23 | (무명) | 생徒会室 실내(いろは 착석, 八幡 서 있음, 난로 앞 남학생) | 교내, 방문 불가 — [AT2](https://www.anitabi.cn/map?bangumiId=102134&pid=g1oph6u) |
-| 続 8화 20:20 | (무명) | 붉게 물든 저녁, 손잡이 달린 계단이 있는 학교 현관과 인물 둘 | 교내/교사 현관, 방문 불가 — [AT2](https://www.anitabi.cn/map?bangumiId=102134&pid=g1p3alz) |
+| 続 5화 21:23 | (무명) | 生徒会室로 보이는 사무실형 실내(いろは 착석, 八幡 서 있음, 난로 앞 남학생) | 교내로 보임, 방문 불가 — [AT2](https://www.anitabi.cn/map?bangumiId=102134&pid=g1oph6u) |
+| 続 8화 20:20 | (무명) | 붉게 물든 저녁, 손잡이 달린 계단과 기둥이 있는 건물 현관, 위쪽에 인물 둘 | 학교 현관으로 보이나 판독 불확실 — [AT2](https://www.anitabi.cn/map?bangumiId=102134&pid=g1p3alz) |
 | 続 13화 09:10 | (무명) | 눈 내리는 「葛西臨海公園」 안내 지도판, 뒤로 관람차 | 공원 안내판(역 앞 동선) — [AT2](https://www.anitabi.cn/map?bangumiId=102134&pid=bhixiqn) |
 | 続 13화 09:11 | (무명) | 고가 구조물 아래 펜스 친 주차 공간 옆을 걷는 셋 | 역 주변 보행로(S 블로그 「葛西臨海公園駅周辺」과 부합) — [AT2](https://www.anitabi.cn/map?bangumiId=102134&pid=bhinh5e) |
 | 続 13화 09:22 | 水族園レストハウス | 「マグロとせいくらべ」 패널과 둥근 창 문 | 수족원 내부(위 C) — [AT2](https://www.anitabi.cn/map?bangumiId=102134&pid=973lo6o) |
@@ -176,7 +176,7 @@
 - 감상·고찰 블로그:
   - 하루노는 "「タバコ」「朝までコース」"라는 말을 남기는, 밤새 술을 마시고 온 상태다. 대사는 "どんなにお酒を飲んでも後ろに冷静な自分がいるの。…予言してあげる。君は酔えない"이다. 원작자 渡航의 트윗(2020-07-16) "タバコの匂いがつく、ということは、作中でタバコ吸う人はかなり限られてるので相手はおのずと"를 인용한다 — [飄々図書室 完 2화](http://hyohyolibrary.com/?p=2343)
   - "スーツに染みついたタバコの匂いをかがせる陽乃"(블로거는 이자카야 몇 시간으로 비유) — [木陰の岩の眠り猫 完 2화](http://xystone.blog.fc2.com/blog-entry-2020.html)
-- 작중에서 담배를 피우는 인물은 平塚 선생이다(Seven Stars 애연가) — [fandom Shizuka Hiratsuka](https://oregairu.fandom.com/wiki/Shizuka_Hiratsuka)
+- 平塚 선생은 작중의 대표적 흡연자다("a heavy smoker… Seven Stars") — [fandom Shizuka Hiratsuka](https://oregairu.fandom.com/wiki/Shizuka_Hiratsuka)
 - 대화 장소는 雪乃 맨션과 귀갓길이다(打瀬北通り 등, 기존 kan 노트 B3; [EN] "Utase Kita Dori — S3E2 … Haruno hints Hikigaya also can never be drunk") — [EN](https://www.google.com/maps/d/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9)
 - 비교(다른 시즌):
   - 続 10화에서 하루노가 八幡·結衣를 불러 함께 마신 곳은 카페 「神戸カプチーノ倶楽部 そごう千葉店」이다(2021-02-28 폐점) — [HP](https://www.google.com/maps/d/viewer?mid=1D6G79ZwK2qY63tzhUBmE47lIOtD_DCcU); [EN](https://www.google.com/maps/d/viewer?mid=1WUBCnqTi1gTo8A2xucPVCrGKglFI5he9)
